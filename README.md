@@ -1,6 +1,8 @@
+<meta name='viewport' content='width=device-width, initial-scale=1'>
+<script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script>
 <h1 align="center"> Hi, I'm Jasmine <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
--   Currently a Customer Success Specialist at HackerRank
+- <i class='fab fa-hackerrank' style='font-size:24px; color:green'></i>  Currently a Customer Success Specialist at HackerRank
 - 🎓 Graduate Student in Information Technology from Amity University, Noida
 
 ### Connect with me:
