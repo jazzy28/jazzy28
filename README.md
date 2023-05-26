@@ -15,8 +15,8 @@
 [instagram]: https://www.instagram.com/whatsnextjasmine/
 
 
-/*<div class="views">
+<!--<div class="views">
     <span class="views">
         <img src="https://visitor-badge.glitch.me/badge?page_id=jazzy28.jazzy28" alt="Views"/>
     </span>
-</div>*/
+</div>-->
