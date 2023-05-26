@@ -1,6 +1,7 @@
 <h1 align="center"> Hi, I'm Jasmine <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 - 💼 Currently a Customer Success Specialist at HackerRank
+- 🏫 Incoming Ivey MSc Digital Management Candidate
 - 🎓 Graduate Student in Information Technology from Amity University, Noida
 
 ### Connect with me:
@@ -11,7 +12,7 @@
 
 [website]: https://jazzy28.github.io/jasmine/
 [linkedin]: https://www.linkedin.com/in/jasmine-awatramani/
-[instagram]: https://www.instagram.com/jasmine.unfiltered/
+[instagram]: https://www.instagram.com/whatsnextjasmine/
 
 
 <div class="views">
