@@ -1,7 +1,7 @@
 <h1 align="center"> Hi, I'm Jasmine <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-- 💼 Currently a Customer Success Specialist at HackerRank
-- 🏫 Incoming Ivey MSc Digital Management Candidate
+- 🏫 Ivey MSc Digital Management Candidate
+- 💼 Ex-Customer Success Specialist at HackerRank
 - 🎓 Graduate Student in Information Technology from Amity University, Noida
 
 ### Connect with me:
