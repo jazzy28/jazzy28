@@ -1,8 +1,7 @@
 <h1 align="center"> Hi, I'm Jasmine <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-- 🏫 Ivey MSc Digital Management Candidate
-- 💼 Ex-Customer Success Specialist at HackerRank
-- 🎓 Graduate Student in Information Technology from Amity University, Noida
+- 💼 Customer Success Manager at Agentnoon, Ex-HackerRank
+- 🎓 MSc Digital Management, MSc Digital Management at Ivey Business School and B.Tech Information Technology at Amity University
 
 ### Connect with me:
 [<img align="left" alt="webpage" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
